@@ -1,61 +1,65 @@
-<h1 align="center">Hi there, I'm Anas Desoky 👋</h1>
+<h1 align="center">Hi there, I'm Anas Mohammed Ebrahim 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=61DAFB&center=true&vCenter=true&width=450&lines=Hi,+I'm+Moaz!;Junior+Front-End+Engineer;Let's+Code+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00C7A7&center=true&vCenter=true&width=480&lines=Hey+I'm+Anas!;AI+and+Computer+Science+Student;Future+Data+Scientist;Let's+Build+Something+Intelligent!" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 About Me  
 
-🎯 I'm a **Junior Data Scientist** passionate about building responsive and modern machine learning models and extracting insights.  
-💡 Currently learning advanced **sklearn**, **python**, and exploring **PowerBI**, **streamlit**, and **AI tools like ChatGPT** to boost productivity and learning.  
-🎓 currently pursuing an AI  bachelor's degree  
-🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies!
+🎯 I'm a **Computer Science & Artificial Intelligence Student** passionate about **Data Science**, **Machine Learning**, and **Problem Solving**.  
+📚 Currently exploring **Mathematics for Machine Learning**, **C++**, **Java**, and **Python for Data Science**.  
+💡 Interested in how **AI** can transform industries and improve human life.  
+🌏 Based in Egypt 🇪🇬, dreaming to **work abroad** and contribute to **global AI projects**.  
+🎮 In my free time, I enjoy **gaming, anime**, and exploring **Japanese culture**.  
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack  
 
-### Front-End:
+### Programming & AI:
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
 </p>
 
-### Tools:
+### Tools & Platforms:
 <p>
   <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoazIbrahim3&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoazIbrahim3&layout=compact&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anas-desoky&show_icons=true&theme=react" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-desoky&layout=compact&theme=react" height="150"/>
 </p>
 
 ---
 
-## 📬 Connect with me
+## 🌐 Connect with Me  
 
-- 📧 Email: [moazhasib24@gmail.com](mailto:moazhasib24@gmail.com)
-- 🐦 Follow me on GitHub:  
-  ![GitHub followers](https://img.shields.io/github/followers/MoazIbrahim3?label=Follow&style=social)
+- 📧 Email: [monkaiengineer@gmail.com](mailto:monkaiengineer@gmail.com)  
+- 💼 LinkedIn: [Anas Mohammed Ebrahim](https://www.linkedin.com/in/anas-desoky-762715242)  
+- 🐦 GitHub Followers:  
+  ![GitHub followers](https://img.shields.io/github/followers/anas-desoky?label=Follow&style=social)  
 
 ---
 
-> “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
+> “Learning never exhausts the mind — every dataset, every algorithm is a new adventure.” 🚀
