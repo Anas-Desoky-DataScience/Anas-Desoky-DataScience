@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Moaz Ibrahim 👋</h1>
+<h1 align="center">Hi there, I'm Anas Desoky 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.  
-💡 Currently learning advanced **JavaScript**, **React**, and exploring **Python**, **Java**, and **AI tools like ChatGPT** to boost productivity and learning.  
-🎓 Background in Management Information Systems and hands-on experience in **E-commerce** and **AI data labeling**.  
+🎯 I'm a **Junior Data Scientist** passionate about building responsive and modern machine learning models and extracting insights.  
+💡 Currently learning advanced **sklearn**, **python**, and exploring **PowerBI**, **streamlit**, and **AI tools like ChatGPT** to boost productivity and learning.  
+🎓 currently pursuing an AI  bachelor's degree  
 🌍 Based in Egypt 🇪🇬, and I'm always curious to learn more about new web technologies!
 
 ---
