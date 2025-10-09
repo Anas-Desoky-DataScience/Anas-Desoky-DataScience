@@ -48,9 +48,6 @@
 
 - 📧 Email: [anasdesoky0@gmail.com](mailto:anasdesoky0@gmail.com)  
 - 💼 LinkedIn: [Anas Mohammed Ebrahim](https://www.linkedin.com/in/anas-desoky-762715242)  
-- 🐦 GitHub Followers:  
-  ![GitHub followers](https://img.shields.io/github/followers/anas-desoky?label=Follow&style=social)  
-
 ---
 
 > “Learning never exhausts the mind — every dataset, every algorithm is a new adventure.” 🚀
