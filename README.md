@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Anas Mohammed Ebrahim 👋</h1>
+<h1 align="center">Hi there, I'm Anas Desoky 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
@@ -12,11 +12,11 @@
 
 ## 🧠 About Me  
 
-🎯 I'm a **Computer Science & Artificial Intelligence Student** passionate about **Data Science**, **Machine Learning**, and **Problem Solving**.  
+🎯 I'm a **Passionate Data Scientist** passionate about **Data Science**, **Machine Learning**, and **Problem Solving**.  
+📚 Currently pursuing an  **AI Bachelor's Degree**. 
 📚 Currently exploring **Mathematics for Machine Learning**, **C++**, **Java**, and **Python for Data Science**.  
 💡 Interested in how **AI** can transform industries and improve human life.  
 🌏 Based in Egypt 🇪🇬, dreaming to **work abroad** and contribute to **global AI projects**.  
-🎮 In my free time, I enjoy **gaming, anime**, and exploring **Japanese culture**.  
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## 🌐 Connect with Me  
 
-- 📧 Email: [monkaiengineer@gmail.com](mailto:monkaiengineer@gmail.com)  
+- 📧 Email: [anasdesoky0@gmail.com](mailto:anasdesoky0@gmail.com)  
 - 💼 LinkedIn: [Anas Mohammed Ebrahim](https://www.linkedin.com/in/anas-desoky-762715242)  
 - 🐦 GitHub Followers:  
   ![GitHub followers](https://img.shields.io/github/followers/anas-desoky?label=Follow&style=social)  
