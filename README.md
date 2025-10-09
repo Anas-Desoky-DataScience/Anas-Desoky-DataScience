@@ -44,15 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anas-desoky&show_icons=true&theme=react" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anas-desoky&layout=compact&theme=react" height="150"/>
-</p>
-
----
-
 ## 🌐 Connect with Me  
 
 - 📧 Email: [anasdesoky0@gmail.com](mailto:anasdesoky0@gmail.com)  
