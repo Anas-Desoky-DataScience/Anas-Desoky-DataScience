@@ -1,47 +1,84 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<!-- Hero section -->
+<h1 align="center">Hi, I'm Anas 👋</h1>
+<h3 align="center">Junior Data Scientist & AI Enthusiast</h3>
 
-###
+<p align="center">
+  I like turning messy data into useful insights and building practical ML models.<br/>
+  Focused on Python, Machine Learning, and end-to-end data workflows.
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
-</div>
+<p align="center">
+  <a href="https://github.com/USERNAME">
+    <img src="https://img.shields.io/github/followers/USERNAME?label=Follow&style=flat-square" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/anas-desoky-762715242">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="mailto:anasdesoky0@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square" alt="Email" />
+  </a>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
+## 🧑‍💻 About Me
 
-###
+- 🎓 AI & Computer Science student from Egypt  
+- 📊 Interested in data analysis, ML pipelines, and model evaluation  
+- 🧠 Strong foundation in algorithms & problem solving (ICPC experience)  
+- 🚀 Currently improving my ML skills through real-world projects and internships  
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anas-Desoky-DataScience&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Anas-Desoky-DataScience&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+## 🛠 Tech Stack
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph.svg">
-</picture>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,java,cpp,git,github,linux,sqlite" />
+</p>
 
-###
+- **Languages**: Python, SQL, Java, C++  
+- **Data & ML**: Pandas, NumPy, Scikit-learn, data cleaning, EDA, feature engineering  
+- **Visualization**: Matplotlib, Seaborn  
+- **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
+
+---
+
+## 📂 Highlighted Projects
+
+> Replace the links below with your real repositories once they’re pushed.
+
+- 🔹 **Loan Approval ML Pipeline**  
+  Predicts loan approval using a full preprocessing + modeling pipeline (ColumnTransformer, pipelines, evaluation metrics).  
+  `Python · Pandas · Scikit-learn`  
+  👉 [Repo Link](https://github.com/USERNAME/loan-approval-ml)  
+
+- 🔹 **Forest Cover Type Classification**  
+  Multi-class classification with ensemble models (e.g., Random Forest / XGBoost) on a large dataset.  
+  `Python · Scikit-learn · EDA`  
+  👉 [Repo Link](https://github.com/USERNAME/forest-cover-classification)  
+
+- 🔹 **Student Performance Regression**  
+  Predicts exam scores based on study/sleep/habits, comparing Linear vs Polynomial Regression.  
+  `Python · Regression · Model Evaluation`  
+  👉 [Repo Link](https://github.com/USERNAME/student-performance-ml)  
+
+---
+
+## 🏆 A Bit of Experience (Short Version)
+
+- Worked on **data science / ML internships** involving:
+  - Data cleaning, EDA, and visualization  
+  - Building and evaluating ML models  
+  - Writing clean, reproducible notebooks and code  
+
+- Helped students as an **algorithms & problem-solving instructor** (ICPC community),  
+  focusing on competitive programming and solid coding practices.
+
+---
+
+## 📈 GitHub Overview
+
+```md
+<!-- Replace USERNAME with your GitHub username -->
+![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
