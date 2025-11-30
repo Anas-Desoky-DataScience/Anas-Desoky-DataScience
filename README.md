@@ -42,28 +42,6 @@
 - **Tools**: Git, GitHub, Jupyter Notebook, VS Code  
 
 ---
-
-## 📂 Highlighted Projects
-
-> Replace the links below with your real repositories once they’re pushed.
-
-- 🔹 **Loan Approval ML Pipeline**  
-  Predicts loan approval using a full preprocessing + modeling pipeline (ColumnTransformer, pipelines, evaluation metrics).  
-  `Python · Pandas · Scikit-learn`  
-  👉 [Repo Link](https://github.com/USERNAME/loan-approval-ml)  
-
-- 🔹 **Forest Cover Type Classification**  
-  Multi-class classification with ensemble models (e.g., Random Forest / XGBoost) on a large dataset.  
-  `Python · Scikit-learn · EDA`  
-  👉 [Repo Link](https://github.com/USERNAME/forest-cover-classification)  
-
-- 🔹 **Student Performance Regression**  
-  Predicts exam scores based on study/sleep/habits, comparing Linear vs Polynomial Regression.  
-  `Python · Regression · Model Evaluation`  
-  👉 [Repo Link](https://github.com/USERNAME/student-performance-ml)  
-
----
-
 ## 🏆 A Bit of Experience (Short Version)
 
 - Worked on **data science / ML internships** involving:
