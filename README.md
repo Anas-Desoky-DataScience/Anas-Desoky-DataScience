@@ -1,53 +1,47 @@
-<h1 align="center">Hi there, I'm Anas Desoky 👋</h1>
+<h1 align="center">Hey 👋What's Up?</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding gif"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=00C7A7&center=true&vCenter=true&width=480&lines=Hey+I'm+Anas!;AI+and+Computer+Science+Student;Future+Data+Scientist;Let's+Build+Something+Intelligent!" alt="Typing SVG" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+</div>
 
----
+###
 
-## 🧠 About Me  
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-🎯 I'm a **Passionate Data Scientist** passionate about **Data Science**, **Machine Learning**, and **Problem Solving**.  
-📚 Currently pursuing an  **AI Bachelor's Degree**. 
-📚 Currently exploring **Mathematics for Machine Learning**, **C++**, **Java**, and **Python for Data Science**.  
-💡 Interested in how **AI** can transform industries and improve human life.  
-🌏 Based in Egypt 🇪🇬, dreaming to **work abroad** and contribute to **global AI projects**.  
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anas-Desoky-DataScience&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Anas-Desoky-DataScience&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## 🚀 Tech Stack  
+###
 
-### Programming & AI:
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/pacman-contribution-graph.svg">
+</picture>
 
-### Tools & Platforms:
-<p>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChatGPT-00A67E?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?logo=google-cloud&logoColor=white" />
-</p>
-
----
-
-## 🌐 Connect with Me  
-
-- 📧 Email: [anasdesoky0@gmail.com](mailto:anasdesoky0@gmail.com)  
-- 💼 LinkedIn: [Anas Mohammed Ebrahim](https://www.linkedin.com/in/anas-desoky-762715242)  
----
-
-> “Learning never exhausts the mind — every dataset, every algorithm is a new adventure.” 🚀
+###
