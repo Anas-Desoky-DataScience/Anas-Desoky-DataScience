@@ -1,48 +1,43 @@
-## About Me
+<h1 align="center">Hey 👋What's Up?</h1>
 
-Hi, I'm **Anas Desoky**, a **junior data scientist and AI enthusiast** passionate about turning raw data into meaningful insights.  
-I enjoy working across the full data workflow — from **cleaning and preprocessing**, to **EDA**, to **building and evaluating machine learning models**.  
+###
 
-I love exploring real-world datasets, applying machine learning techniques, and continuously improving my skills through hands-on projects.  
-When I'm not analyzing data, you’ll find me learning new ML methods, teaching algorithms in my ICPC community, or working on personal projects.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visualstudio logo"  />
+</div>
 
----
+###
 
-## My Skills
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+</div>
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/SQL-%2307405e.svg?logo=postgresql&logoColor=white">  
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white"> 
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"> 
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white">  
-<img src="https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white">  
-<img src="https://img.shields.io/badge/Seaborn-4E8BBF?logo=python&logoColor=white">  
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">  
-<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Anas-Desoky-DataScience&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=Anas-Desoky-DataScience&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-## GitHub Stats
+###
 
-<table><tbody><tr border="none"><td width="50%" align="center">
+<img src="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/snake.svg" alt="Snake animation" />
 
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true">
-
-<img alt="Anas streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=YOUR_GITHUB_USERNAME&theme=dark">
-
-</td><td width="50%" align="center">
-
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6">
-
-</td></tr></tbody></table>
-
-> Replace **YOUR_GITHUB_USERNAME** with your actual GitHub username.
-
----
-
-## Connect With Me
-
-<p align="center">
-🔗 LinkedIn: <a href="https://www.linkedin.com/in/anas-desoky-762715242/" target="_blank">Anas Desoky</a>  
-📧 Email: <a href="mailto:anasdesoky0@gmail.com">anasdesoky0@gmail.com</a>
-</p>
+###
