@@ -38,6 +38,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anas-Desoky-DataScience/Anas-Desoky-DataScience/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Anas-Desoky-DataScience/output/snake.svg" alt="Snake animation" />
 
 ###
